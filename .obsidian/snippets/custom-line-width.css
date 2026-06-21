@@ -1,11 +1,7 @@
-/* Збільшення ширини рядка (Readable Line Width) в Obsidian */
 body {
-  /* За замовчуванням Obsidian обмежує ширину до ~700px.
-     Тут ви можете встановити будь-яке значення, наприклад 900px, 1200px або 90% (для відсоткового співвідношення). */
-  --file-line-width: 1000px;
+  --file-line-width: 1200px;
 }
 
-/* Центрування заголовків у режимі читання (Reading) та редагування (Live Preview) */
 .markdown-rendered h1,
 .markdown-rendered h2,
 .markdown-rendered h3,
